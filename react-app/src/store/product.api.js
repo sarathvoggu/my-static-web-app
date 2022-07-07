@@ -9,7 +9,7 @@ const data = {
     {
       id: 20,
       name: 'Sliced bread',
-      description: 'Loaf of fresh sliced wheat bread',
+      description: 'Loaf of fresh sliced whole grain honey bread',
       quantity: 1,
     },
     {
@@ -17,12 +17,6 @@ const data = {
       name: 'Apples',
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
-    },
-    {
-      id: 40,
-      name: 'peanut butter',
-      description: '1kg bottle of crunchy peanut butter',
-      quantity: 6,
     },
   ],
 };
